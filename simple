@@ -1,0 +1,6 @@
+#! /bin/bash
+
+make
+rm my.log
+./smsasim simple.dat -l my.log
+./verify simple-output.log my.log
