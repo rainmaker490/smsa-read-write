@@ -7,17 +7,13 @@
 //   Last Modified : OCTOBER 28TH 2013
 //
 
-// Include Files
-
 // Project Include Files
 #include <smsa_driver.h>
 #include <cmpsc311_log.h>
 
-// Defines
 #define ZERO 0
-// Functional Prototypes
 
-//
+
 // Global data
 // unsigned char *block = NULL;
 // Interfaces
